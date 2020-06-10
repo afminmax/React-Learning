@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Header() {
-  return <div>A navbar header would be here</div>;
+  return <div className="navbar">A navbar header would be here</div>;
 }

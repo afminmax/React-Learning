@@ -1,0 +1,33 @@
+body {
+  background: black;
+  color: teal;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.navbar {
+  height: 100px;
+  background-color: #333;
+  color: whitesmoke;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  height: 20px;
+  background-color: #333;
+  color: whitesmoke;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
